@@ -20,11 +20,11 @@
 
 | Проект | Описание | Ссылка |
 |---------|------------|---------|
-| ** Сайт** | Новостной сайт | [Посмотреть](https://github.com/altanecbogdan-dot/sessii/tree/main/NEWSITE) |
-| **Todo List** | Простое приложение для управления задачами | [Посмотреть](https://github.com/yourusername/todo-list) |
+| **Сайт** | Новостной сайт | [Посмотреть](https://github.com/altanecbogdan-dot/sessii/tree/main/NEWSITE) |
+| **Банк** | Простой банк | [Посмотреть](https://github.com/altanecbogdan-dot/Bank) |
 | **Портфолио сайт** | Личное портфолио и контакты | [Посмотреть](https://github.com/yourusername/portfolio-site) |
+| **Сайт на Tilda** | Сайт про бетон-завод | [Посмотреть](http://rabota20218.tilda.ws) |
 
-*(замени ссылки на свои, если есть, или добавь свои)*
 
 ---
 
