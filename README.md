@@ -20,7 +20,7 @@
 
 | Проект | Описание | Ссылка |
 |---------|------------|---------|
-| ** ** | Приложение для получения прогноза погоды | [Посмотреть](https://github.com/yourusername/weather-app) |
+| ** Сайт** | Новостной сайт | [Посмотреть](https://github.com/yourusername/weather-app) |
 | **Todo List** | Простое приложение для управления задачами | [Посмотреть](https://github.com/yourusername/todo-list) |
 | **Портфолио сайт** | Личное портфолио и контакты | [Посмотреть](https://github.com/yourusername/portfolio-site) |
 
